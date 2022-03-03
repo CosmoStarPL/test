@@ -1,0 +1,13 @@
+table{
+  color:purple;
+  border:10px solid green;
+  border-radius: 8px;
+}
+.c{
+  color: blue;
+}
+.a{
+  color: gray;
+  animation: 1s;
+
+}
